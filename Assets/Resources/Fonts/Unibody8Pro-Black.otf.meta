@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1092883a3b2307b4380f2f1fd60e2c2b
+timeCreated: 1489530319
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unibody 8 Pro
+  fontNames:
+  - Unibody 8 Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
