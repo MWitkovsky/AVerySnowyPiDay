@@ -13,7 +13,7 @@ public class SnowflakeHandler : MonoBehaviour {
 
 	private void OnCollisionEnter2D()
     {
-        if(Random.Range(0.0f, 100.0f) > 70.0f)
+        if(Random.Range(0.0f, 100.0f) > 70.0f && transform.position.x < 5.4f)
         {
             Destroy(GetComponent<Rigidbody2D>());
             gameObject.layer = LayerMask.NameToLayer("IdleSnowflake");
